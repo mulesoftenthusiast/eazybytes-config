@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EQ Bank accounts related QA APIs "
+  message: "Welcome to EQ Bank accounts related QA APIsuuuuuuu "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
